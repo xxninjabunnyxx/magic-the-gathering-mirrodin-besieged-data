@@ -1,0 +1,21 @@
+---
+object: set
+id: f46c57e3-9301-4006-a6ca-06f3f65961fb
+code: mbs
+mtgo_code: mbs
+arena_code: mbs
+tcgplayer_id: 76
+name: Mirrodin Besieged
+uri: https://api.scryfall.com/sets/f46c57e3-9301-4006-a6ca-06f3f65961fb
+scryfall_uri: https://scryfall.com/sets/mbs
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Ambs&unique=prints
+released_at: '2011-02-04'
+set_type: expansion
+card_count: 155
+printed_size: 155
+digital: false
+nonfoil_only: false
+foil_only: false
+block_code: som
+block: Scars of Mirrodin
+icon_svg_uri: https://svgs.scryfall.io/sets/mbs.svg?1694404800
